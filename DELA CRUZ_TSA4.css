@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Platypi:ital,wght@0,300..800;1,300..800&display=swap');
+h1
+{ 
+    font-size: 120px;
+    font-weight: bold;
+    font-family:platypi;
+    text-align: center;
+    color:rgb(126, 70, 6)
+}
+
+h2
+{
+    font-size: 50px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;  
+    text-align: center;
+}
+
+.p1 
+{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif; 
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.p2
+{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif; 
+    text-align: center;
+    font-weight: bold ;
+    color:goldenrod
+}
+
+.p3
+{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif; 
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.p4
+{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif; 
+    text-align: center;
+    
+
+}
+
+.p5
+{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif; 
+    text-align: center;
+    font-weight: bold;
+    color:rgb(3, 3, 3)
+
+}
+
+.p6
+{
+    font-size: 17px;
+    font-family:'Times New Roman', Times, serif; 
+    text-align: right;
+    font-weight: bold;
+    
+
+}
+
+.p7
+{
+    font-size: 17px;
+    font-family:'Times New Roman', Times, serif; 
+    text-align: right;
+    font-weight: bold;
+
+}
+
+.p8
+{
+    font-size: 25px;
+    font-family:'Times New Roman', Times, serif; 
+    text-align: center;
+    font-weight: bold;
+    color:rgb(245, 228, 171)
+
+}
+
+.img
+{
+    height: 170px;
+    padding-right: 1180px ;
+}
+
+.img1
+{
+    background-repeat: no-repeat;
+    background-size: 2550px;
+    text-align: center;
+    background-image: url(https://files.123freevectors.com/wp-content/original/191251-abstract-red-and-yellow-gradient-background.jpg);
+}
