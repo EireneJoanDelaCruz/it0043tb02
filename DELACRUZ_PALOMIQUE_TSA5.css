@@ -6,6 +6,8 @@ body {
   min-height: 100vh;
   margin: 0;
   background-color: #f0f0f0;
+  background-image: url(https://i.pinimg.com/originals/6e/d9/2a/6ed92a9d205d70a00039029474418332.gif);
+  background-repeat:inherit;
 }
 
 .container {
